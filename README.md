@@ -10,7 +10,8 @@ Team members:
 &emsp; &emsp; - Burca Theodor, 3B2  
 &emsp; &emsp; - Muraru Cosmin Alexandru, 3B2  
 Solved assignments are checkmarked: [✅].  
-*Link video: https://www.youtube.com/watch?v=_x19F_wLSeU&ab_channel=CosminMuraru*  
+*Link video of hand in Unity: https://www.youtube.com/watch?v=_x19F_wLSeU&ab_channel=CosminMuraru*  
+*Link video of hand in Blender: https://youtu.be/EpevnVqLZUU*  
 
  
 ## General Info
